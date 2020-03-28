@@ -1,1 +1,3 @@
 label: ciao Michele
+params:
+  param1: parametro myapp
